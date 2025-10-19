@@ -1,42 +1,44 @@
-# Hi 👋, I'm Abdessamade Moussaif
-A passionate backend developer from Morocco
+<h1 align="center">Hi 👋, I'm Abdessamade Moussaif</h1>
+<h3 align="center">A passionate backend developer from Morocco</h3>
 
-🌱 I’m currently learning **Next.js**  
-💬 Ask me about **Node.js, Express, MongoDB, and REST APIs**  
-📫 How to reach me **abdessamademoussaif@gmail.com**  
-📄 Know more about me [My Resume](https://drive.google.com/your-resume-link)  
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=moussaif&label=Profile%20views&color=0e75b6&style=flat" alt="moussaif" /> 
+</p>
 
----
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://moussaif.online)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+- 💬 Ask me about **Node.js, Express, MongoDB, REST APIs**
 
----
+- 📫 How to reach me **abdessamademoussaif@gmail.com.com**
 
-### 🧠 Languages and Tools:
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/your-resume-link)
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/abdessamade-moussaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdessamade-moussaif" height="30" width="40" /></a>
+  <a href="https://instagram.com/abdessamade.moussaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdessamade.moussaif" height="30" width="40" /></a>
+  <a href="https://leetcode.com/moussaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moussaif" height="30" width="40" /></a>
+</p>
 
-### 📊 GitHub Stats:
-![Moussaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moussaif&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moussaif&layout=compact&theme=react)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
 
----
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdessamademoussaif&show_icons=true&locale=en&layout=compact" alt="abdessamademoussaif" />
+</p>
 
-### 🚀 Featured Projects
-- [Freight Transport Platform](https://github.com/moussaif/transport-platform) – React, Node.js, MongoDB  
-- [Laundry Delivery App](https://github.com/moussaif/laundry-delivery) – Multi-shop system with real-time updates  
-
----
-
-### 🏆 Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=moussaif&theme=onedark)
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessamademoussaif&show_icons=true&locale=en" alt="moussaif" />
+</p>
