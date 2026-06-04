@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=moussaif&label=Profile%20views&color=0e75b6&style=flat" alt="moussaif" /> 
 </p>
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+- 🌱 I’m currently learning **Cloud computing**
 
-- 💬 Ask me about **Node.js, Express, MongoDB, REST APIs**
+- 💬 Ask me about **Node.js, Express, MongoDB, PostgerSQL, java, Spring Boot**
 
 - 📫 How to reach me **abdessamademoussaif@gmail.com.com**
 
